@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.arrow-image {
+  width: 30px;
+  margin-right: 12px;
+}
+.app-container {
+  display: flex;
+  justify-content: space-between;
+}
+.paragraph {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin: 0px;
+}
+.button {
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  border: none;
+}
